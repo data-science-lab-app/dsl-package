@@ -1,5 +1,5 @@
 {
-  "name": "dsl-package-template",
+  "name": "<insert-repoistory-name>",
   "version": "1.0.0",
   "description": "A repository template for packages to be publish at https://data-science-lab.azurewebsites.net.",
   "main": "dist/index.js",
@@ -8,16 +8,8 @@
     "build": "tsc",
     "clean": "rmdir /q /s dist || exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/data-science-lab-app/dsl-package-template.git"
-  },
-  "author": "Author's Name",
+  "author": "<insert author name>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/data-science-lab-app/dsl-package-template/issues"
-  },
-  "homepage": "https://github.com/data-science-lab-app/dsl-package-template#readme",
   "data_science_lab": [
     
   ],
