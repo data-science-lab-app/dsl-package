@@ -1,5 +1,5 @@
 {
-  "name": "<insert-repoistory-name>",
+  "name": "<insert-repository-name>",
   "version": "1.0.0",
   "description": "A repository template for packages to be publish at https://data-science-lab.azurewebsites.net.",
   "main": "dist/index.js",
